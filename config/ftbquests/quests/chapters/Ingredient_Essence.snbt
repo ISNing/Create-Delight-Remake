@@ -62,8 +62,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1E6358D568EF8155"
 			size: 1.0d
 			subtitle: "用来榨油呦"
@@ -76,8 +74,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6105AFADE6997A68"
 			size: 1.0d
 			tasks: [{
@@ -89,8 +85,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "2C8A0A4D40645A38"
 			tasks: [{
 				id: "4EFED1532CBC6E4B"
@@ -101,8 +95,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4DA3084BF7FB8BCD"
 			tasks: [{
 				id: "1D98990887BA507F"
@@ -113,8 +105,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4CF89D6E0EAA6191"
 			tasks: [{
 				id: "5EB5864DC9A9413E"
@@ -125,12 +115,8 @@
 			y: -12.0d
 		}
 		{
-			dependencies: [
-				"1E6358D568EF8155"
-				"2AD38E54F361CFD2"
-			]
+			dependencies: ["1E6358D568EF8155"]
 			description: ["种下后长出后，将会把下方的方块转换成&c繁茂草方块&r，&e挖掘后掉落沃土&r"]
-			hide_until_deps_complete: true
 			id: "31A717CF38C46FFC"
 			subtitle: "批量获得沃土？"
 			tasks: [{
@@ -142,8 +128,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4CA1ABF5ED0150F4"
 			subtitle: "恐怖南瓜"
 			tasks: [{
@@ -155,8 +139,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "67DE065B095778C4"
 			tasks: [{
 				id: "34E5FCC276FD932C"
@@ -167,8 +149,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "105CB7DAFC6CCF85"
 			tasks: [{
 				id: "04A5F99450D74437"
@@ -179,8 +159,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "3D72F2D5A1DE9A58"
 			tasks: [{
 				id: "6157CDA4E28A8EAB"
@@ -191,8 +169,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "3E63AA1AAFDE43A0"
 			tasks: [{
 				id: "32553D21388CEE0D"
@@ -211,8 +187,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "35CFE29C0207239D"
 			tasks: [{
 				id: "59C16038D45F59AF"
@@ -231,8 +205,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "19860C2F6F52152F"
 			tasks: [{
 				id: "775EAE430021927E"
@@ -243,8 +215,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "50A3C86BF8510F27"
 			tasks: [{
 				id: "36D52E213D6F90AA"
@@ -255,9 +225,7 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: ["必须种在静止的水下方的泥土/草方块/沃土上，共有四个生长阶段，但只有上方一格处为空气时才能长成第三/四阶段，成熟后两格高，收割第二格掉落稻米穗。"]
-			hide_until_deps_complete: true
 			id: "1D1CBC7F0738036B"
 			rewards: [
 				{
@@ -282,8 +250,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1B20A484A5FC9B57"
 			tasks: [{
 				id: "6F0ECE50AD718AAD"
@@ -294,8 +260,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7844869F89AA50F4"
 			tasks: [{
 				id: "55833F81A366694E"
@@ -306,8 +270,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7BF93719AD8A448C"
 			tasks: [{
 				id: "2C64A841B0E319D0"
@@ -319,9 +281,7 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [""]
-			hide_until_deps_complete: true
 			id: "06F725765BD4E479"
 			rewards: [
 				{
@@ -346,8 +306,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "745E03012C0A03A9"
 			tasks: [{
 				id: "78F7C7EDF77F3858"
@@ -358,8 +316,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7AECA2A6C18C2F7F"
 			rewards: [
 				{
@@ -383,8 +339,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "0C4F87ACA5C4D6D9"
 			rewards: [
 				{
@@ -408,12 +362,10 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [
 				"菌落现在可以在任何亮度下生长，而且生长速度有所增加:"
 				"菌落现在可以被骨粉催熟。但是注意一定要等到蘑菇进入菌落阶段才能使用骨粉催熟。(直接催熟未进入菌落阶段的蘑菇则会生成蘑菇树)"
 			]
-			hide_until_deps_complete: true
 			id: "363BC04C1FDE411C"
 			rewards: [
 				{
@@ -450,8 +402,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "468B3D8EE192C5B2"
 			subtitle: "会&4爆炸&r的辣椒！"
 			tasks: [{
@@ -463,8 +413,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "722C511B0AA86ECD"
 			tasks: [{
 				id: "451FC9F0ECBE0EA9"
@@ -475,8 +423,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "31CA5B28794F4C00"
 			tasks: [{
 				id: "2E1A263C34FD4552"
@@ -487,8 +433,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "49425FF8BFE2D564"
 			tasks: [{
 				id: "2D21D37324E9D242"
@@ -499,8 +443,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "52D3BDA7B642C045"
 			tasks: [{
 				id: "701CE61CF232F8FA"
@@ -511,8 +453,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "13AB0B4F1DC4D460"
 			tasks: [{
 				id: "5B44915FB25D786A"
@@ -523,8 +463,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1FAB5DB4D7BD1C14"
 			tasks: [{
 				id: "28462952F475CD4E"
@@ -535,8 +473,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6FAEFDA0867E48CA"
 			subtitle: "黯紫浆果丛生成于&e黑森林&r"
 			tasks: [{
@@ -548,8 +484,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4E91F3B0C9186CF4"
 			subtitle: "发光浆果生成于&e繁茂洞穴&r中"
 			tasks: [{
@@ -561,9 +495,7 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [""]
-			hide_until_deps_complete: true
 			id: "0127B9E281D268BF"
 			rewards: [{
 				id: "7687C54875C4BD7D"
@@ -580,8 +512,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "550FA243BA7B736F"
 			rewards: [{
 				id: "0610CCCF2A566067"
@@ -598,9 +528,7 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [""]
-			hide_until_deps_complete: true
 			id: "25C77A4F65494D2A"
 			rewards: [{
 				id: "5C2DB668B57C47CA"
@@ -617,9 +545,7 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [""]
-			hide_until_deps_complete: true
 			id: "0063494FD35EF1DE"
 			rewards: [{
 				id: "79A270158A99D91C"
@@ -636,8 +562,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "0BC1A48C5F7E4AD0"
 			subtitle: "石榴生长于下界的&9诡异森林&r中"
 			tasks: [{
@@ -649,11 +573,7 @@
 			y: -16.0d
 		}
 		{
-			dependencies: [
-				"0BC1A48C5F7E4AD0"
-				"2AD38E54F361CFD2"
-			]
-			hide_until_deps_complete: true
+			dependencies: ["0BC1A48C5F7E4AD0"]
 			id: "1ABB1CC7C1D6566E"
 			secret: true
 			subtitle: "种植于&9复生沃土&r上产生的特殊产物"
@@ -666,8 +586,6 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "27F5863D1F72F4D5"
 			secret: true
 			subtitle: "&2不是哥们？这也能产出经验？"
@@ -680,8 +598,6 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "2532FCB37BA9E159"
 			rewards: [{
 				id: "7A5C76F29A4633D0"
@@ -698,8 +614,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "326F31C128FA35F7"
 			rewards: [{
 				id: "4E14B7C590A11635"
@@ -716,8 +630,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "43D20AFE4D13389F"
 			rewards: [{
 				id: "3891A6A378174A4A"
@@ -734,9 +646,7 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: [""]
-			hide_until_deps_complete: true
 			id: "7EE6074FA3805A00"
 			rewards: [{
 				id: "07AF948CDD5E253E"
@@ -753,8 +663,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "3848C15C02538184"
 			rewards: [{
 				id: "244445E783401118"
@@ -771,8 +679,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "60A76054159A37F7"
 			rewards: [{
 				id: "2770636513A8A92E"
@@ -789,8 +695,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "07886F18ABB7C8D1"
 			rewards: [{
 				id: "5D751EDC1FEC5A6A"
@@ -807,9 +711,7 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: ["&e重力方块&r，不可直接食用，榴莲&e成熟后&r会&4从树叶上掉落&r并造成&4伤害"]
-			hide_until_deps_complete: true
 			id: "1C4EA0FC584EFC28"
 			rewards: [{
 				id: "136C5E6002FA454F"
@@ -826,8 +728,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "44BEB5F11CE04C38"
 			tasks: [
 				{
@@ -845,9 +745,7 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
 			description: ["别想了，不能&e喂狼"]
-			hide_until_deps_complete: true
 			id: "59A6B34D8607FD6A"
 			rewards: [{
 				id: "39DB6648D8B9C2AA"
@@ -864,8 +762,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1F65F7E3A19CA174"
 			rewards: [{
 				id: "6EBBB71D8AB9DD96"
@@ -882,8 +778,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6CB6E1848E1C721A"
 			rewards: [{
 				id: "072E1365A9CABEEC"
@@ -900,8 +794,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "0D00E629D80816CF"
 			rewards: [{
 				id: "2938225EE0D9ED91"
@@ -918,8 +810,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "665D3BAA652CF952"
 			subtitle: "青柠生成于&e繁花森林"
 			tasks: [{
@@ -931,8 +821,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "057212DC8E0B9AF9"
 			subtitle: "紫颂果生成于&5末地外岛"
 			tasks: [{
@@ -944,8 +832,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7C53FFA4AC6FEDC3"
 			rewards: [{
 				id: "319DC16FACB503A5"
@@ -962,8 +848,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1CD404F45F375D7E"
 			rewards: [{
 				id: "3B4ED88E290DE0FF"
@@ -980,8 +864,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6470CEFC832AE325"
 			subtitle: "牛油果树生成于&e稀疏丛林"
 			tasks: [{
@@ -993,8 +875,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "0DEAA38692CAC333"
 			rewards: [{
 				id: "4EBC827A829C08DD"
@@ -1010,11 +890,7 @@
 			y: -15.0d
 		}
 		{
-			dependencies: [
-				"0DEAA38692CAC333"
-				"2AD38E54F361CFD2"
-			]
-			hide_until_deps_complete: true
+			dependencies: ["0DEAA38692CAC333"]
 			id: "5CA3F160913BD18D"
 			rewards: [{
 				id: "7291D5D7AA82AD5F"
@@ -1030,8 +906,6 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "2F7BE3A06FA611D6"
 			rewards: [{
 				id: "7210AFC23B361092"
@@ -1047,11 +921,7 @@
 			y: -16.0d
 		}
 		{
-			dependencies: [
-				"2F7BE3A06FA611D6"
-				"2AD38E54F361CFD2"
-			]
-			hide_until_deps_complete: true
+			dependencies: ["2F7BE3A06FA611D6"]
 			id: "798FED2BBC13BE23"
 			rewards: [{
 				id: "41DABEC629D7A010"
@@ -1067,8 +937,6 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "437DDAAF6F64D0E0"
 			rewards: [{
 				id: "7917F0AA643E86E6"
@@ -1085,8 +953,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "20220744AEF253DA"
 			rewards: [{
 				id: "4BDA38F82CEE019A"
@@ -1102,8 +968,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "2911C4E82D85C333"
 			subtitle: "有的地区会叫田鸡"
 			tasks: [{
@@ -1115,8 +979,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4C5DB06DC3540875"
 			rewards: [{
 				id: "1D20E8AD723B0624"
@@ -1133,8 +995,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7AA98D07FF5E4B1D"
 			rewards: [{
 				id: "4E837B105946E004"
@@ -1150,8 +1010,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "284F00D6766657E8"
 			rewards: [{
 				id: "0DDB6202A55C9771"
@@ -1167,8 +1025,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "26B5D1D5BFD13C23"
 			tasks: [{
 				id: "29FE7B9E0C4CD5D4"
@@ -1179,8 +1035,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "26F22F8298BE5703"
 			tasks: [{
 				id: "05EED7FB0067DCD4"
@@ -1191,8 +1045,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "34B6F55EF4870370"
 			subtitle: "杜鹃莓由&e杜鹃树叶&r掉落"
 			tasks: [{
@@ -1204,8 +1056,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "764710C3DCB2C8D5"
 			tasks: [{
 				id: "0886B73F644A11E3"
@@ -1216,8 +1066,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "22389E9F1F3C9808"
 			tasks: [{
 				id: "27EC2674EC78E7BC"
@@ -1228,8 +1076,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6299163251FDC3BE"
 			tasks: [{
 				id: "10A17533CF913537"
@@ -1240,8 +1086,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "5CBA00B2B32D6EC8"
 			tasks: [{
 				id: "32CADD9D571B34A3"
@@ -1252,8 +1096,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "4588324DE4ADA440"
 			tasks: [{
 				id: "6F4A5EE0ACCDBC56"
@@ -1264,8 +1106,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6C35ED9C90ADDB54"
 			tasks: [{
 				id: "7DC8FB1C6397C1B5"
@@ -1276,8 +1116,6 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "2FFDBD19DD91942B"
 			tasks: [{
 				id: "2A01FF9254CAF0D5"
@@ -1288,8 +1126,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "511DA716AF8B3F7F"
 			tasks: [{
 				id: "1274EFA1A9E972DA"
@@ -1300,8 +1136,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "24D0817E053333FA"
 			tasks: [{
 				id: "6AC3F1D6B68F1307"
@@ -1312,8 +1146,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "03001757BEE321E5"
 			tasks: [{
 				id: "67F685EC0D2DEBC5"
@@ -1324,8 +1156,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "44064FE76E5F9BE5"
 			tasks: [{
 				id: "698A0625F3C8A976"
@@ -1336,8 +1166,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1DCFE492DB7E7B6F"
 			tasks: [{
 				id: "0B4A69A289C60902"
@@ -1348,8 +1176,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "0F8874777A3934D4"
 			tasks: [{
 				id: "4C7768846BBFF39F"
@@ -1360,8 +1186,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "1BB9E6B567C04C47"
 			tasks: [{
 				id: "3B6CB46103AD975F"
@@ -1372,8 +1196,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "791FDFAD89CBD414"
 			tasks: [{
 				id: "630B418EEFAED863"
@@ -1384,8 +1206,6 @@
 			y: -17.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "6748C3803B272710"
 			tasks: [{
 				id: "24D663D5D1CF9035"
@@ -1396,8 +1216,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "5A8C2AA05BF2A603"
 			tasks: [{
 				id: "4F21AF8BB6B1EEB6"
@@ -1414,8 +1232,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "25425115FD2F6424"
 			tasks: [{
 				id: "32B5108F76C8766F"
@@ -1426,8 +1242,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "609F6EAFD3834FA9"
 			tasks: [{
 				id: "1162BEBEBE3E2884"
@@ -1438,8 +1252,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "02E3F7F8ABF7176A"
 			tasks: [{
 				id: "0EA3C14098F12BFF"
@@ -1450,8 +1262,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "19E7F23AF6D603FC"
 			tasks: [{
 				id: "5A77C01F63548332"
@@ -1462,8 +1272,6 @@
 			y: -20.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "3FB24F70796A5923"
 			tasks: [{
 				id: "588180204D39D4B6"
@@ -1474,8 +1282,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7216A5DD93CD16FE"
 			tasks: [
 				{
@@ -1493,8 +1299,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "73B8BB960DE1A575"
 			tasks: [{
 				id: "05BA1B40B3BDDE0B"
@@ -1505,8 +1309,6 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "3E63BAD5F2C0AFEB"
 			tasks: [{
 				id: "231C8F36D70A6D3C"
@@ -1517,8 +1319,6 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "368552762EC9FE42"
 			min_required_tasks: 1
 			tasks: [
@@ -1537,8 +1337,6 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "7D2C2A6FBEE79381"
 			tasks: [{
 				id: "35585369A12E0899"
@@ -1549,8 +1347,6 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["2AD38E54F361CFD2"]
-			hide_until_deps_complete: true
 			id: "5167C57FF05E882C"
 			tasks: [{
 				id: "0458A4966A1DA017"
